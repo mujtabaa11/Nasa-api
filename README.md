@@ -4,8 +4,6 @@
 
 This React application showcases NASA's **Astronomy Picture of the Day (APOD)**, fetching and displaying a new photo daily from NASA's APOD API. The app provides stunning space imagery and accompanying descriptions, making the wonders of the universe accessible to visitors in an engaging way.  
 
-The implementation was inspired by an awesome tutorial by [James Jamezmca](https://github.com/jamezmca).  
-
 👉 **Live Demo**: [NASA APOD Viewer](https://master--nasaapod-react-app.netlify.app)  
 
 ---
